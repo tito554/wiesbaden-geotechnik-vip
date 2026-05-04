@@ -1,0 +1,51 @@
+# Geotechnik — Wiesbaden
+
+> Geotechnical engineering services in Wiesbaden, Deutschland.
+
+## Services
+- [Anker](https://wiesbaden.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://wiesbaden.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://wiesbaden.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://wiesbaden.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://wiesbaden.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://wiesbaden.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://wiesbaden.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://wiesbaden.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://wiesbaden.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://wiesbaden.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://wiesbaden.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://wiesbaden.geotechnik.vip/fundamente/)
+- [Grundungen](https://wiesbaden.geotechnik.vip/grundungen/)
+- [Hange](https://wiesbaden.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://wiesbaden.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://wiesbaden.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://wiesbaden.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://wiesbaden.geotechnik.vip/labor/)
+- [Labor In Situ](https://wiesbaden.geotechnik.vip/labor-in-situ/)
+- [Masw](https://wiesbaden.geotechnik.vip/masw/)
+- [Pfahle](https://wiesbaden.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://wiesbaden.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://wiesbaden.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://wiesbaden.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://wiesbaden.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://wiesbaden.geotechnik.vip/schurfgruben/)
+- [Seismik](https://wiesbaden.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://wiesbaden.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://wiesbaden.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://wiesbaden.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://wiesbaden.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://wiesbaden.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://wiesbaden.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://wiesbaden.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://wiesbaden.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://wiesbaden.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://wiesbaden.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://wiesbaden.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://wiesbaden.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://wiesbaden.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Wiesbaden, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
